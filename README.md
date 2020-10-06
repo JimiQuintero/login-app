@@ -1,8 +1,5 @@
 # LoginApp
 
-Cascaron de un login que usaremos en la sección 10 de mi curso de Angular de cero a experto.
+Aplicación login-app con Angular y Firebase
 
-https://www.udemy.com/angular-2-fernando-herrera/?couponCode=ANGULAR-10
-
-
-![](https://github.com/Klerith/angular-login-demoapp/blob/master/src/assets/images/demo.png?raw=true)
+<!-- recuerde ejecutar npm install -->
